@@ -1,23 +1,41 @@
-# João Gabriel — Portfólio
+# João Gabriel
 
-Portfólio estático de João Gabriel (JOTTAGEDEV), desenvolvedor full stack júnior. HTML, CSS e JavaScript puro; sem dependências ou build.
+Sou João Gabriel, desenvolvedor full stack júnior. Estou construindo minha trajetória no desenvolvimento web, explorando tanto o front-end quanto o back-end e colocando o que aprendo em prática nos meus projetos.
 
-## Publicar na Vercel
-1. Entre na Vercel e escolha **Add New → Project**.
-2. Importe este repositório.
-3. Framework Preset: **Other**. Root Directory: raiz do repositório.
-4. Não preencha Build Command. Output Directory: `.` (raiz).
-5. Clique em **Deploy**.
+Gosto de entender como uma aplicação funciona por completo: da interface que aparece na tela à lógica que faz tudo acontecer. Meu portfólio reúne parte dessa jornada e dos projetos que venho desenvolvendo.
 
-## Personalizar
-- `index.html`: apresentação, textos, projetos e links.
-- `style.css`: cores, layout e animações.
-- `script.js`: revelação ao rolar, parallax e progresso de leitura.
-- `favicon.svg`: ícone do site.
+## O que estou desenvolvendo
 
-Os projetos e links foram conferidos no perfil público JOTTAGEDEV em 20/10/2026. As capas são composições gráficas autorais, não screenshots das aplicações. O contato aponta para o GitHub; substitua por email ou LinkedIn se desejar.
+Meu foco é evoluir na criação de interfaces e aplicações web, trabalhando com HTML, CSS e JavaScript e usando Git e GitHub para organizar e compartilhar meu código.
 
-## Executar localmente
-Abra `index.html` no navegador ou execute `npx --yes serve .` nesta pasta.
+Estou no início da carreira e quero continuar aprendendo com projetos, desafios e trocas com outros desenvolvedores.
 
-Layout responsivo, navegação por teclado e suporte a `prefers-reduced-motion`. Conteúdo continua visível sem JavaScript.
+## Meus projetos
+
+### ODIOPAY
+
+Plataforma brasileira de pagamentos, carteira e saques em ambiente sandbox.
+
+[Ver repositório](https://github.com/JOTTAGEDEV/odiopay)
+
+### Auto Serta
+
+Projeto web voltado ao universo automotivo, publicado na Lovable.
+
+[Visitar site](https://autoserta.lovable.app) · [Ver repositório](https://github.com/JOTTAGEDEV/auto-serta-lovable)
+
+### Second Server
+
+Projeto de servidor de Minecraft, unindo desenvolvimento e experimentação.
+
+[Ver repositório](https://github.com/JOTTAGEDEV/Second-Server)
+
+## Sobre este portfólio
+
+Criei este espaço para apresentar meu trabalho e acompanhar minha evolução como desenvolvedor. O site usa HTML, CSS e JavaScript, com layout responsivo e animações ao rolar a página.
+
+## Vamos conversar
+
+Se quiser conhecer melhor meu trabalho, trocar ideias ou conversar sobre uma oportunidade, encontre meu perfil no GitHub.
+
+[github.com/JOTTAGEDEV](https://github.com/JOTTAGEDEV)
