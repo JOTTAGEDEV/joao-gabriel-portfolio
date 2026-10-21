@@ -1,6 +1,6 @@
 # João Gabriel — Portfólio
 
-Portfólio estático de João Gabriel (ENEZEDEV), desenvolvedor full stack júnior. HTML, CSS e JavaScript puro; sem dependências ou build.
+Portfólio estático de João Gabriel (JOTTAGEDEV), desenvolvedor full stack júnior. HTML, CSS e JavaScript puro; sem dependências ou build.
 
 ## Publicar na Vercel
 1. Entre na Vercel e escolha **Add New → Project**.
@@ -15,7 +15,7 @@ Portfólio estático de João Gabriel (ENEZEDEV), desenvolvedor full stack júni
 - `script.js`: revelação ao rolar, parallax e progresso de leitura.
 - `favicon.svg`: ícone do site.
 
-Os projetos e links foram conferidos no perfil público ENEZEDEV em 20/10/2026. As capas são composições gráficas autorais, não screenshots das aplicações. O contato aponta para o GitHub; substitua por email ou LinkedIn se desejar.
+Os projetos e links foram conferidos no perfil público JOTTAGEDEV em 20/10/2026. As capas são composições gráficas autorais, não screenshots das aplicações. O contato aponta para o GitHub; substitua por email ou LinkedIn se desejar.
 
 ## Executar localmente
 Abra `index.html` no navegador ou execute `npx --yes serve .` nesta pasta.
