@@ -362,23 +362,25 @@ h2 {
 }
 .pay-symbol {
   position: absolute;
-  top: 35px;
-  left: 40%;
-  font-size: 300px;
-  line-height: 1;
-  font-weight: 800;
-  letter-spacing: -40px;
-  transform: rotate(-12deg);
+  top: 50%;
+  left: 50%;
+  width: 320px;
+  transform: translate(-50%, -50%);
   transition: transform 0.7s;
 }
-.pay-symbol span {
-  font-size: 180px;
-  position: relative;
-  left: -20px;
-  top: -15px;
+.pay-monogram {
+  display: block;
+  width: 100%;
+  height: auto;
 }
+
 .pay-art:hover .pay-symbol {
-  transform: rotate(0deg) scale(1.04);
+  transform: translate(-50%, -50%) scale(1.04);
+}
+.pay-monogram {
+  display: block;
+  width: 100%;
+  height: auto;
 }
 .project-info {
   display: flex;
@@ -821,14 +823,14 @@ footer .logo {
     font-size: 20px;
   }
   .pay-symbol {
-    font-size: 210px;
-    left: 27%;
-    top: 40px;
+    width: 230px;
   }
-  .pay-symbol span {
-    font-size: 120px;
-    left: 0;
+  .pay-monogram {
+    display: block;
+    width: 100%;
+    height: auto;
   }
+
   .auto-title {
     font-size: 70px;
     top: 80px;
